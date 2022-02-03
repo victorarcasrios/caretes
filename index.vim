@@ -1,0 +1,9 @@
+source ~/.vim/caretes/people_&_body.vim
+source ~/.vim/caretes/smileys_&_emotion.vim
+source ~/.vim/caretes/symbols.vim
+source ~/.vim/caretes/activities.vim
+source ~/.vim/caretes/objects.vim
+source ~/.vim/caretes/travel_&_places.vim
+source ~/.vim/caretes/flags.vim
+source ~/.vim/caretes/food_&_drink.vim
+source ~/.vim/caretes/animals_&_nature.vim
